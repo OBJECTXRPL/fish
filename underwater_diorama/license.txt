@@ -1,0 +1,11 @@
+Model Information:
+* title:	Underwater Diorama
+* source:	https://sketchfab.com/3d-models/underwater-diorama-e94325fc21164a1d9c90d9ec07b133ba
+* author:	amalie.kma (https://sketchfab.com/amalie.kma)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Underwater Diorama" (https://sketchfab.com/3d-models/underwater-diorama-e94325fc21164a1d9c90d9ec07b133ba) by amalie.kma (https://sketchfab.com/amalie.kma) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
